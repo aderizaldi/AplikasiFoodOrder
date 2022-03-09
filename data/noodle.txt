@@ -1,0 +1,7 @@
+Mie Kuning Rebus;12000
+Mie Kuning Goreng;12000
+Mie Tiaw Goreng;12000
+Ramen Spesial;17000
+Ramen Biasa;14000
+Mie Sedap;7500
+Indomie;7000

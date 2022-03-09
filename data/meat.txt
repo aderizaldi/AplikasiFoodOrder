@@ -1,0 +1,8 @@
+Ayam Goreng Tepung;7000
+Ayam Bakar;8000
+Ayam Fillet;8000
+Sapi Lada Hitam;10000
+Rendang;10000
+Steak;35000
+Sop Sapi;10000
+Sop Ayam;7000

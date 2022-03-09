@@ -1,0 +1,5 @@
+Mie Tiaw Goreng-12000;Boba-20000$Dine In$32000$35000$3000
+Steak-35000;Es Teh-5000;Indomie-7000$Take Away$47000$100000$53000
+Indomie-7000;Es Teh-5000;Nasi Putih-3000$Take Away$15000$20000$5000
+Nasi Putih-3000;Udang Goreng Tepung-15000;Sop Sapi-10000;Extra Joss-7000$Dine In$35000$35000$0
+Indomie-7000;Extra Joss-7000;Mie Kuning Goreng-12000;Pop Ice-15000$Take Away$41000$50000$9000

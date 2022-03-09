@@ -1,0 +1,7 @@
+Nasi Uduk;5000
+Nasi Putih;3000
+Nasi Kuning;5000
+Nasi Liwet;5000
+Nasi Goreng;10000
+Nasi Kuah;7000
+Nasi Kucing;2500

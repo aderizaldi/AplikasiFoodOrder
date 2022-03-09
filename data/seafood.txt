@@ -1,0 +1,6 @@
+Udang Goreng Tepung;15000
+Udang Asam Pedas;17000
+Udang Lada Hitam;15000
+Kerang Asam Pedas;18000
+Kepiting Asam Pedas;20000
+Cumi Mentah;23000

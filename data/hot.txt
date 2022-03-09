@@ -1,0 +1,4 @@
+Kopi Original;9000
+Kopi Susu;12000
+Teh Panas;5000
+Latte;25000
